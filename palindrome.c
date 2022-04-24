@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main() 
 {
  int n, reverse=0, rem,temp;
 
