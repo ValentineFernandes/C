@@ -2,10 +2,8 @@
 int main()
 {
     double num1, num2, num3;
-
     printf("Enter Three Numbers: ");
     scanf("%lf %lf %lf", &num1, &num2, &num3);
-
     if (num1>=num2)
     {
         if(num1>=num3)
