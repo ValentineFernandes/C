@@ -2,7 +2,6 @@
 int main() 
 { 
   int amt, r2000=0, r500=0, r100=0, r50=0, r20=0, r10=0, r5=0, r2=0 , r1=0 ,count=0; 
-
   printf("Enter The Amount in Rupees : \n\n") ; 
   scanf("%d", &amt) ; 
   
