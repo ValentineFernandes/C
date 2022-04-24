@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main()
 {
    int sub,marks,n,i,sum=0,tmp=0,arr[10],Percentage;
