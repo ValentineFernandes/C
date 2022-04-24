@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+void main() 
 {
     long int r=0,i=1,odd=0,even=0,no,n,rev=0;
   
