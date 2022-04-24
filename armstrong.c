@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-   int n, n1, rem, num=0;
+   int n, n1, rem, num=0; 
    
    while(1)
    {
