@@ -4,7 +4,6 @@ void main()
  char a;
  printf("Press Any Key : ");
  scanf("%c",&a);
-
  if(a>=65 && a<90)
  {
   printf("An Upper Case Letter");
