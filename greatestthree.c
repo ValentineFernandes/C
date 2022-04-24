@@ -3,7 +3,6 @@
 int main()
 {
    double num1, num2, num3;
-
     printf("Enter Three Numbers: \n");
     scanf("%lf %lf %lf", &num1, &num2, &num3);
 
