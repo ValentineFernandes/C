@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+void main() 
 {
   
     int d,m,y,i,leap=0,temp=0,temp1=0,temp2=0;
