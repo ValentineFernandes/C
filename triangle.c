@@ -1,8 +1,6 @@
 #include<stdio.h>
-
 int main()
 {
-   
     float b,h,area;
 
     printf("Enter Height and Base Of Triangle : ");
