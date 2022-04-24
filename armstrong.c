@@ -2,7 +2,6 @@
 int main()
 {
    int n, n1, rem, num=0; 
-   
    while(1)
    {
    printf("Enter a Positive Integer To Check For Armstrong : \n");
