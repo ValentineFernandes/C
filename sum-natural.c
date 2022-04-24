@@ -1,9 +1,7 @@
 #include<stdio.h>
 int main()
 {
-  
     int n, count=1, sum=0;
-    
     while(1)
     {
  printf("\nEnter The Natural Number :\n");
