@@ -8,5 +8,4 @@ int main()
   printf("long double is  %2d bytes \n", sizeof(long double));
   printf("char is   %2d bytes \n", sizeof(char));
   return 0;
-
 } 
