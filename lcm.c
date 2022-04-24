@@ -2,7 +2,6 @@
 int main()
 {
    int num1, num2, max;
-  
    printf("Enter Two Positive Integers :\n");
    scanf("%d %d", &num1, &num2);
   
