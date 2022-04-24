@@ -4,8 +4,7 @@ int main ()
     int age,temp=0 ;;
     
     while(1)
-    {
-     
+    {    
  printf("Enter Your Age Here\n");
     scanf("%d",&age);
     
