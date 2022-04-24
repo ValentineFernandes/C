@@ -2,9 +2,7 @@
 
 int main()
 {
-    /*Program By Ghanendra Yadav
-    Visit http://www.programmingwithbasics.com/
-    */
+   
     float b,h,area;
 
     printf("Enter Height and Base Of Triangle : ");
