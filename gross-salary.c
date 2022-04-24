@@ -2,7 +2,6 @@
 
 int main()
 {
-  
     float GrossPayment,basic,da,hra,da1,hra1;
 
     printf("Enter basic salary : ");
