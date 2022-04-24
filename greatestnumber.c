@@ -1,8 +1,7 @@
 #include<stdio.h>
 
 int main()
-{
-   
+{  
    double num1, num2, num3;
 
     printf("Enter Three Numbers: \n");
