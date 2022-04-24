@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
-void main()
+void main() 
 {
   
     int i,j,k,day,dt=1;
