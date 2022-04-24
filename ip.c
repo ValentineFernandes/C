@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-#include<math.h>
+#include<math.h> 
 void main()
 {
     int i,j,k,dig,no,nu,cnt=0;
