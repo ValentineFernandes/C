@@ -1,2 +1,2 @@
 # C
-C program 
+C programs
