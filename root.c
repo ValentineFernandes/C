@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main(){
 
     long int sum,num,m;
