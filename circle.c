@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int main() 
 {
    int rad;
    float PI = 3.14, area, ci;
