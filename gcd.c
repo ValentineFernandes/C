@@ -1,7 +1,6 @@
 #include
 int main()
 {
-  
     int num1, num2, i, hcf;
     
  printf("Enter Two Integers :\n");
