@@ -1,9 +1,7 @@
 #include<stdio.h>
 int main()
-{
-  
-    int num, rem, rev = 0;
-
+{ 
+   int num, rem, rev = 0;
    printf("Enter Any Number to be Reversed :\n");
    scanf("%d", &num);
 
